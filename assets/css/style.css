@@ -467,8 +467,8 @@ footer a {
 }
 
 @media screen and (max-width: 640px) {
-	.section-title { font-size: 2em; line-height: 1em; }
-	.info .container h1 { font-size: 2.300em; }
+	.section-title { font-size: 23px; line-height: 1em; }
+	.info .container h1 { font-size: 24px; }
 	.info .container h4 { font-size: 1.500em; }
 	#nav li { font-size: 0.875em; }
 	#nav li a span { display: none; }
